@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "jsonp": "^0.2.1"
+  }
+}

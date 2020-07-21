@@ -9,7 +9,8 @@
 <script type="text/ecmascript-6">
 import NavHeader from '@/components/NavHeader' 
 import NavFooter from '@/components/NavFooter'
-export default {
+export default { 
+    name:'nav-home',
     components:{
         NavHeader,
         NavFooter
